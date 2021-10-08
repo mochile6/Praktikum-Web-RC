@@ -17,8 +17,8 @@ jangan lupa tambahkan hasil screenshoot web di dalam file
 
 ### Tambahkan identitas dasar di sini: 
 
-Nama  :Fahri Setiawan
+Nama  :
 <br>
-NIM   :119140193
+NIM   :
 <br>
-Kelas :Pemrograman WEB RC
+Kelas :
