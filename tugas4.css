@@ -1,0 +1,17 @@
+table,tr,td,th{
+    background-color: rgba(199, 173, 173, 0.418) ;
+    font-family: Verdana;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+
+button {
+    border: 1px solid black;
+}
+
+a {
+    text-decoration: none;
+    
+}
