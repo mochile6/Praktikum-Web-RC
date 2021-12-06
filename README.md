@@ -15,7 +15,21 @@ jangan lupa tambahkan hasil screenshoot web di dalam file
 
 ### Tambahkan identitas dasar di sini: 
 
-Nama  :
+Nama  :Fahri Setiawan
 <br>
-NIM   :
+NIM   : 119140193
+
+PEMWEB RC
+
+
+note ubah
+
+### note ubah: 
+menerapkan ecma script 2021 pada penulisan Java Script
+
+Menambah style Css baru untuk nav , header dan background mempercantik tampilan
+
+database menambahkan user baru Fahri pass fahri
+
+
  
